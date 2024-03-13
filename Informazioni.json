@@ -1,0 +1,11 @@
+{
+  "orari": {
+    "lunedi": "9.00 - 19.00",
+    "martedi": "9.00 - 19.00",
+    "mercoledi": "9.00 - 19.00",
+    "giovedi": "9.00 - 19.00",
+    "venerdi": "9.00 - 19.00",
+    "sabato": "9.00 - 14.00",
+    "domenica": "Chiuso"
+  }
+}
